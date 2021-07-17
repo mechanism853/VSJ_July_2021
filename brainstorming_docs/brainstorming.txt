@@ -1,0 +1,23 @@
+---------
+//mechanism853 @ ~23:00, July 16, 2021
+Alright. I had a couple ideas today, but I gotta get to sleep now.
+Will pick back up tomorrow before work.
+
+Theme:  I Dream of Ice Cream.
+
+Game idea 1: You are an ice-cream man serving up scoops in a
+cartoonish dreamscape. You attempt to toss scoops of ice cream
+into the air, such that they arc into the awaiting cones.
+
+Game idea 2: Largely similar to idea 1, except that you instead
+control one or more cones, and attempt to catch the ice cream
+man's wildly arcing scoops.
+
+For both 1 and 2, I suggest a very dreamscapey atmosphere. I
+imagine the cones/customers in layers, getting bigger according
+to perspective as they are closer to the player. Art style would
+not be pixel art, but would be simply/cartoonishly drawn in 2D.
+As much squash and stretch for the sprites as possiblem, and
+maximal fun/goofy sound effects.
+I have more, but I gotta go sleep!
+---------
